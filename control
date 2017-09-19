@@ -1,6 +1,6 @@
 Package: org.thebigboss.libstatus9
 Name: libstatus9
-Provides: libstatusbar (=0.9.9.0) ,libmoorecon (=0.9.9.0)
+Provides: libstatusbar ,libmoorecon
 Replaces: libstatusbar ,libmoorecon
 Conflicts: libstatusbar,libmoorecon
 Depends: firmware (>=9.1), mobilesubstrate, com.rpetrich.rocketbootstrap
